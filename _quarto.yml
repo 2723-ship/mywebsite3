@@ -16,7 +16,7 @@ website:
         href: https://github.com/2723-ship/mywebsite3
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Jinpeng Tang"
+    left: "&copy; Copyright 2023, Jinpeng Tang, All Rights Reserved."
 
 format:
   html:
