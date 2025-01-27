@@ -1,0 +1,8 @@
+#me img {
+    width: 150px;       /* 设置图片宽度 */
+    height: auto;       /* 高度根据宽度自动调整 */
+    object-fit: contain; /* 确保图片完整显示 */
+    border-radius: 50%; /* 如果需要圆形效果 */
+    margin: auto;       /* 图片居中 */
+    display: block;
+}
